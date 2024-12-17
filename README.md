@@ -87,24 +87,24 @@
 <br>
 <div align="center">
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveesha99&layout=compact&theme=transparent" alt=Naveesha />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveesha99&layout=compact&theme=transparent" alt=Naveesha />
 
 <br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveesha99&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveesha99&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naveesha99&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naveesha99&theme=transparent" height="180em" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/MilanBhanuka">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveesha99&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naveesha99&theme=transparent" height="180em" />
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveesha99&theme=transparent" alt="Naveesha" height="180em" /> -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveesha99&theme=transparent" height="180em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naveesha99&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naveesha99&theme=transparent" height="180em" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveesha99&theme=transparent" alt="Naveesha" height="180em" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveesha99&theme=transparent" height="180em"/>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=naveesha99&theme=github-dark-dimmed"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Naveesha99&theme=github-dark-dimmed"/>
 
